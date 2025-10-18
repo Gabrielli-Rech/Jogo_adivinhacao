@@ -18,21 +18,5 @@ mensagem de feedback interativo
 
 estrutura de projeto limpa e comentada
 
-(se aplicável) escalabilidade para versões mais robustas (GUI, web, ranking, etc.)
 
-## ⚙️ Instalação & Como Jogar
 
-# Clone o repositório
-git clone https://github.com/Gabrielli-Rech/Jogo_adivinhacao.git
-cd Jogo_adivinhacao
-
-# (Se Python) Crie ambiente virtual
-python3 -m venv venv
-source venv/bin/activate        # Linux/Mac
-# ou: venv\Scripts\activate     # Windows
-
-# Instale dependências (se houver)
-pip install -r requirements.txt
-
-# Execute o jogo
-python jogo_adivinhacao.py      # ou o nome correto do arquivo
